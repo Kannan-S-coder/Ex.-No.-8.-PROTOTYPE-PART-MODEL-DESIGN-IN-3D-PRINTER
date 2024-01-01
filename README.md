@@ -55,8 +55,8 @@
 ![Screenshot 2023-11-29 091037](https://github.com/Kannan-S-coder/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147120710/40a3e3a7-994f-4d85-bbaa-87f0fa172144)
 
 
-### Name:
-### Register Number:
+### Name:KANNAN.S
+### Register Number:212223230098
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
